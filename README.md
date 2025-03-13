@@ -2,7 +2,9 @@
 
 я Аналитик данных📊
 
-💡 Что я умею: Python (pandas, numpy, matplotlib, seaborn)
+💡 Что я умею: 
+
+Python (pandas, numpy, matplotlib, seaborn)
 
 SQL (оптимизация запросов, CTE, оконные функции) 
 
