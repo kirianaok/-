@@ -1,16 +1,15 @@
-## Hi there 👋
+Привет👋 Меня зовут Кира
 
-<!--
-**kirianaok/kirianaok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+я Аналитик данных📊
 
-Here are some ideas to get you started:
+💡 Что я умею: Python (pandas, numpy, matplotlib, seaborn)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+SQL (оптимизация запросов, CTE, оконные функции) 
+
+Визуализация данных (Tableau, Power BI)
+
+A/B-тестирование и статистический анализ
+
+🚀 Цель: Реализовать крупный аналитический проект, который поможет бизнесу принимать решения на основе данных
+
+Открыта для новыхпредложений!
